@@ -8,7 +8,7 @@ This site gives brief details of
 
 Partnered with other Software Engineers to refactor this site.
 
-![Portfolio  Site](./assets/images/horiseon-image.png)
+![Portfolio  Site](./Assets/images/horiseon-image.png)
 
 # Depoloyed Site
 heres the site
