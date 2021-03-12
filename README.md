@@ -12,4 +12,4 @@ Partnered with other Software Engineers to refactor this site.
 
 # Depoloyed Site
 heres the site
-[Deployed Site]("https://joydotcom.github.io/horiseon-code-refactor/")
+[Deployed Site](https://joydotcom.github.io/horiseon-code-refactor/) 
