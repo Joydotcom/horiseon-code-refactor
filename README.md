@@ -10,6 +10,5 @@ Partnered with other Software Engineers to refactor this site.
 
 ![Portfolio  Site](./Assets/images/horiseon-image.png)
 
-# Depoloyed Site
-heres the site
+
 [Deployed Site](https://joydotcom.github.io/horiseon-code-refactor/) 
